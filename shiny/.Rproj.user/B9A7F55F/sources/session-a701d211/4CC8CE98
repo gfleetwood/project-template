@@ -1,0 +1,26 @@
+{
+    "id": "4CC8CE98",
+    "path": "~/workspace/home_health_main/home_health_app_shiny/ui.R",
+    "project_path": "ui.R",
+    "type": "r_source",
+    "hash": "1042021313",
+    "contents": "",
+    "dirty": false,
+    "created": 1709750988080.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "15,41",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1709751368,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1709751368858,
+    "read_only": false,
+    "read_only_alternatives": []
+}
